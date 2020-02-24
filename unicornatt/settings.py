@@ -26,7 +26,9 @@ SECRET_KEY = '7x^v@f0i@ec#1dp5k3*inh3hccq5l9mf@^9r8^ow58wr*)&6vb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ecc15ee1-ad40-4c32-9f9d-6aa00d8d1263.ws-eu01.gitpod.io', '8080-ecc15ee1-ad40-4c32-9f9d-6aa00d8d1263.ws-eu01.gitpod.io']
+ALLOWED_HOSTS = ['8000-ecc15ee1-ad40-4c32-9f9d-6aa00d8d1263.ws-eu01.gitpod.io', 
+'8080-ecc15ee1-ad40-4c32-9f9d-6aa00d8d1263.ws-eu01.gitpod.io',
+ 'unicorn-ricky-test.herokuapp.com']
 
 
 # Application definition
